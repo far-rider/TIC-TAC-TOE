@@ -15,13 +15,15 @@ A stylish and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript 
 
 ## 📸 Screenshots
 
-> *You can add screenshots here after uploading images to your repo or using external links!*
+![Game Screenshot](screenshots/Screenshot(53).png)
+![Game Screenshot](screenshots/Screenshot(52).png)
+
 
 ## 🚀 How to Run
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/far-rider/tic-tac-toe.git
    ```
 
 2. **Navigate to the project folder:**
