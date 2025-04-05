@@ -1,5 +1,6 @@
+
 ```markdown
-# 🎮 Tic-Tac-Toe Web App
+## 🎮 Tic-Tac-Toe Web App
 
 A stylish and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript — featuring two gameplay modes:
 - 👥 **Player vs Player**
@@ -15,10 +16,9 @@ A stylish and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript 
 
 ## 📸 Screenshots
 
-![Screenshot (52)](https://github.com/user-attachments/assets/fe01ef65-96f8-4c19-abdd-af1d90440f2b)
+![Main Menu](https://github.com/user-attachments/assets/fe01ef65-96f8-4c19-abdd-af1d90440f2b)
 
-![Screenshot (53)](https://github.com/user-attachments/assets/acf51f4e-e6cc-4ba8-8796-9bbf9d5ccf34)
-
+![Game Board](https://github.com/user-attachments/assets/acf51f4e-e6cc-4ba8-8796-9bbf9d5ccf34)
 
 ## 🚀 How to Run
 
@@ -67,7 +67,3 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 > Made with ❤️ for fun and learning!
 ```
-
----
-
-Let me know if you'd like a version with screenshots, a demo GIF, or automatic GitHub Pages setup for live demo!
