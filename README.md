@@ -24,7 +24,7 @@ A stylish and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/far-rider/tic-tac-toe.git
+   git clone https://github.com/your-username/tic-tac-toe.git
    ```
 
 2. **Navigate to the project folder:**
